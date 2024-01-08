@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.selected {
+  color: red;
+}
